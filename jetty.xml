@@ -1,0 +1,3 @@
+<Configure id="Server" class="org.eclipse.jetty.server.Server">
+
+</Configure>
